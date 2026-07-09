@@ -38,6 +38,7 @@ console.log(portatil.ficha());
 console.log(portatil2.ficha());
 console.log(portatil3.ficha());
 
-
+//intento sin metodos
+console.log( Computador("Asus", "Intell", "8 GB", "2'500.000"));
 
 
