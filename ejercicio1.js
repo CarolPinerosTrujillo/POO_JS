@@ -1,20 +1,3 @@
-// console.log("Hola Mundo POO");
-
-// function Heroe(nombre, clase) {
-//      this.nombre = nombre ;
-//      this.clase = clase ;
-//      this. saludar = function () {
-//         return `Saludos ${this.nombre} el ${this.clase}`;
-//      };
-
-// }
-
-// const guerrero = new Heroe("Carol", "Guerrero")
-// console.log(guerrero.saludar());
-
-
-//EJERCICIO 1 MOLDEADO INVENTARIO - TIENDA DE TECNOLOGIA DEFINIR FUNCION CONSTRUCTURA
-
 function Computador(marca, procesador, ram, precio) { //ram en GB
 
     this.marca =marca ;
